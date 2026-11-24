@@ -1,1 +1,2 @@
 Version Inicial Login
+Funcionalidad Recuperar Contraseña
